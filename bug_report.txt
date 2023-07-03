@@ -1,0 +1,14 @@
+Bug Report
+
+ID:
+Severity:
+Environment:
+Title:
+Steps:
+Actual result:
+Expected result:
+Link:
+License:
+Role:
+Bug started:
+
