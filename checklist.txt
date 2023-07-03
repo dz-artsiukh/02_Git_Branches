@@ -1,0 +1,12 @@
+Application Testing Checklist
+
+1. Tested By
+2. Date
+3. Application Name
+
+4. Procedure
+5. Expected Result
+6. Pass/Fail
+(P/F)
+7. Actual Results/Comments
+
